@@ -21,9 +21,9 @@ sou fascinado por tecnologia e atualmente tenho me dedicado a me tornar Desenvol
   
 ## Alguns fatos sobre mim 👨🏻‍💻
 
-- Desenvolvedor Front-end a 1 ano.
+- Desenvolvedor Front-end a 2 anos.
 - Possuo habilidades em trabalhar com desenvolvimento Front-End. Conto ainda com Skills em diversas tecnologias e ferramentas como:
-  HTML5, CSS3, Sass, Git, Github, JavaScript, ES6, Design(Figma).
+  HTML5, CSS3, Sass, Git, Github, JavaScript, ES6, Design(Figma) e estou atualmente estudando ReactJS.
  
 - Sou bastante determinado acreditando na tecnologia como um meio para poder transformar a realidade de muita gente através da facilidade em conectar pessoas e soluções, resolvendo problemas cotidianos e sociais. O que me move é a curiosidade, ela faz com que eu nunca queira parar de aprender.
 
