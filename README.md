@@ -1,8 +1,9 @@
-<h4 align="center">
-<a href="https://app.daily.dev/vinivini"><img src="https://api.daily.dev/devcards/5121862951d24ab48da4da229dc37ea8.png?r=mjq" width="400" alt="Kleberson Vinicius's Dev Card"/></a>
-![c633c20ede82f0e0ced7d570dbe3a1f3](https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif)
-
+<div align="center">
+  <a href="https://app.daily.dev/vinivini">
+    <img src="https://api.daily.dev/devcards/5121862951d24ab48da4da229dc37ea8.png?r=mjq" width="400" alt="Kleberson Vinicius's Dev Card"/></a>
+</div>
 <hr> 
+
 <h3 align="center">  <br>
 
 Olá, eu sou o Kleberson Vinicius! 🇧🇷
