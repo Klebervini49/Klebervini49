@@ -1,6 +1,5 @@
 <div align="center">
-  <a href="https://app.daily.dev/vinivini">
-    <img src="https://api.daily.dev/devcards/5121862951d24ab48da4da229dc37ea8.png?r=mjq" width="400" alt="Kleberson Vinicius's Dev Card"/></a>
+<a href="https://app.daily.dev/vinivini"><img src="https://api.daily.dev/devcards/5121862951d24ab48da4da229dc37ea8.png?r=tee" width="400" alt="Kleberson Vinicius's Dev Card"/></a>
 </div>
 <hr> 
 
