@@ -7,24 +7,24 @@ Olá, eu sou o Kleberson Vinicius! 🇧🇷
 
 ```
 Estudante de Engenharia de Software na Universidade Cruzeiro do Sul, 
-sou fascinado por tecnologia e atualmente tenho me dedicado a me tornar Desenvolvedor Front-end.
+sou fascinado por tecnologia e atualmente tenho me dedicado a me tornar Desenvolvedor Full Stack.
 ```
 ## Tecnologias que estou estudando atualmente 💻
 
-  - Javascript
-  - React.js
+  - C#
+  - Vue.JS && ReactJS
   
 ## Alguns fatos sobre mim 👨🏻‍💻
 
 - Desenvolvedor Front-end a 2 anos.
 - Possuo habilidades em trabalhar com desenvolvimento Front-End. Conto ainda com Skills em diversas tecnologias e ferramentas como:
-  HTML5, CSS3, Sass, Git, Github, JavaScript, ES6, Design(Figma) e estou atualmente estudando ReactJS.
+  HTML5, CSS3, Sass, Git, JavaScript, ReactJS.
  
-- Sou bastante determinado acreditando na tecnologia como um meio para poder transformar a realidade de muita gente através da facilidade em conectar pessoas e soluções, resolvendo problemas cotidianos e sociais. O que me move é a curiosidade, ela faz com que eu nunca queira parar de aprender.
+- Sou bastante determinado, acredito na tecnologia como um meio para poder transformar a realidade do mundo através da facilidade em conectar pessoas e soluções, resolvendo problemas cotidianos e sociais. O que me move é a curiosidade, ela faz com que eu nunca queira parar de aprender.
 
-- Busco sempre estar ligado nas novas tendências do mercado e estar me aperfeiçoando. Ativo nas comunidades Rocketseat, Origamid, Cod3r, B7web, Udemy e constantemente aprendendo e aplicando.. 😄
+- Busco sempre estar ligado nas novas tendências do mercado e estar me aperfeiçoando. Ativo nas comunidades Rocketseat, Origamid, B7web, Balta.io e constantemente aprendendo e aplicando.. 😄
 
-- Estou cursando meu 1º semestre de Engenharia de Software. 💻
+- Estou cursando meu 3º semestre de Engenharia de Software. 💻
 
 ## Seja muito bem vindo (a) ao meu Github.  😄
 
