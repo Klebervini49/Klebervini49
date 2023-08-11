@@ -1,42 +1,45 @@
-<h3 align="center">  <br>
+<h1 align="center">Olá, eu sou o Kleberson Vinicius! 🇧🇷</h1>
 
-Olá, eu sou o Kleberson Vinicius! 🇧🇷
-<br>
-
-</h3>
-
-```
-Estudante de Engenharia de Software na Universidade Cruzeiro do Sul, 
-sou fascinado por tecnologia, trabalho como desenvolvedor Full Stack a tres anos.
-```
+<p align="center">
+  Estudante de Engenharia de Software na Universidade Cruzeiro do Sul, apaixonado por tecnologia e atuando como desenvolvedor Full Stack há três anos.
+</p>
   
-## Alguns fatos sobre mim 👨🏻‍💻
+## Sobre Mim 👨🏻‍💻
 
-- Desenvolvedor Full Stack a 3 anos.
-- Possuo habilidades em trabalhar com desenvolvimento Full Stack. Conto ainda com Skills em diversas tecnologias e ferramentas como:
-  HTML5, CSS3, Sass, Git, JavaScript, ReactJS, Node.JS, PHP, Laravel, Adonis.JS. 
- 
-- Sou bastante determinado, acredito na tecnologia como um meio para poder transformar a realidade do mundo através da facilidade em conectar pessoas e soluções, resolvendo problemas cotidianos e sociais. O que me move é a curiosidade, ela faz com que eu nunca queira parar de aprender.
+- Desenvolvedor Full Stack com 3 anos de experiência.
+- Habilidades em várias tecnologias e ferramentas, incluindo HTML5, CSS3, JavaScript, Git/Github, ReactJS, Sass, Node.JS, Adonis.JS, PHP e Laravel.
+- Acredito na tecnologia como um meio para transformar o mundo, resolvendo problemas cotidianos e sociais. Minha curiosidade constante me mantém sempre aprendendo.
 
-- Busco sempre estar ligado nas novas tendências do mercado e estar me aperfeiçoando. Ativo nas comunidades Rocketseat, Origamid, B7web, Balta.io, constantemente aprendendo e aplicando.. 😄
+## O que você encontrará aqui
 
-- Estou cursando meu 4º semestre de Engenharia de Software. 💻
+- Projetos pessoais e colaborativos.
+- Exploração contínua das últimas tendências e tecnologias.
+- Contribuições para a comunidade através de cursos e aprendizado ativo nas plataformas Rocketseat, Origamid, B7web, Balta.io.
 
-## Seja muito bem vindo (a) ao meu Github.  😄
+## Formação
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Klebervini49-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Klebervini49-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Klebervini49-Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
-  <img align="center" alt="Klebervini49-Bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
-  <img align="center" alt="Klebervini49-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-  <img align="center" alt="Klebervini49-Github" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-  <img align="center" alt="Klebervini49-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Klebervini49-php" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
+- Cursando o 4º semestre de Engenharia de Software na Universidade Cruzeiro do Sul. 💻
+
+## Redes 🌐
+
+<div align="center">
+  <a href="https://instagram.com/Klebervini49" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+  </a>
+  <a href="https://www.linkedin.com/in/klebervini49/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a> 
 </div>
-  
-  ##
-  <div>
-  <a href="https://instagram.com/Klebervini49" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/klebervini49/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  </div>
+
+## Tecnologias e Ferramentas que uso
+
+<div align="center">
+  <img alt="HTML5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img alt="CSS3" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img alt="Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
+  <img alt="Bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
+  <img alt="Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+  <img alt="GitHub" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
+  <img alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img alt="PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
+</div>
