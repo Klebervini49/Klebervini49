@@ -1,34 +1,49 @@
-<h1 align="center">Olá, eu sou o Kleberson Vinicius! 🇧🇷</h1>
+<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
 
-<h4>
-  Estudante de Engenharia de Software na Universidade Cruzeiro do Sul e apaixonado por tecnologia. Com mais de quatro anos de experiência como desenvolvedor Full Stack, estou sempre em busca de novos desafios e aprendizados.
-</p>
-
-## 🚀 Sobre Mim
-
-- 💻 Desenvolvedor Full Stack com **4 anos de experiência**.
-- 💡 Conhecimento e atuação em tecnologias modernas como **NuxtJs**, **NextJs**, **Laravel**, **AWS**, **MySQL**, **PostgreSQL**, entre outras.
-- 🔍 Apaixonado por explorar as últimas tendências em tecnologia e aplicá-las em projetos reais.
-- 🎯 Sempre focado em melhorar a qualidade do código e as soluções que desenvolvo.
-
-## 📚 Formação
-
-- 🎓 Atualmente cursando o **6º semestre de Engenharia de Software** na **Universidade Cruzeiro do Sul**.
-- 📘 Interesse em desenvolvimento web, computação em nuvem, e arquiteturas escaláveis.
-
-## 🔥 O que você encontrará aqui
-
-- 📂 **Projetos pessoais e colaborativos** com foco em inovação.
-- ⚙️ Exploração contínua das **últimas tecnologias e frameworks** do mercado.
-- 💡 Soluções voltadas para melhorar a eficiência, performance e escalabilidade de aplicações.
-
-## 🌐 Vamos nos conectar?
+###
 
 <div align="center">
-  <a href="https://instagram.com/Klebervini49" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
-  </a>
-  <a href="https://www.linkedin.com/in/klebervini49/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a> 
+  <img src="https://github-readme-stats.vercel.app/api?username=klebervini49&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=klebervini49&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
+
+###
+
+<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
+</div>
+
+###
+
+<div align="left">
+  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
+  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+</div>
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/klebervini49/klebervini49/output/snake.svg" alt="Snake animation" />
+
+###
