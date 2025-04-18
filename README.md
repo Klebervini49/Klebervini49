@@ -10,10 +10,6 @@
 
 ###
 
-<img align="right" height="150" src="https://i.ibb.co/0ysWnSpb/a2e7fcb9-4b15-4201-8599-bdcc840a2be5.png"  />
-
-###
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="30" alt="amazonwebservices logo"  />
   <img width="12" />
